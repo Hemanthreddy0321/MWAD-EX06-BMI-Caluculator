@@ -303,6 +303,7 @@ body, html, #root { height: 100%; margin: 0; font-family: Inter, system-ui, -app
   grid-template-columns: 1fr 1fr;
   gap: 12px;
   margin-bottom: 12px;
+
 }
 
 .field {
